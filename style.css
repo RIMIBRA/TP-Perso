@@ -1,0 +1,63 @@
+h1{
+    text-align: center;
+    border: 2px solid skyblue;
+    background-color: aquamarine;
+}
+.p1{background-color: white;
+    border: 2px solid skyblue;
+    height: 50px;
+
+}
+
+ul{display: flex;
+    list-style-type: none;
+text-align: center;
+}
+  li{
+    margin: 10px;
+    border: 2px solid skyblue;
+    width: 100px;
+    background-color: aquamarine;
+  }
+  thead{
+    background-color: blue;
+    color: white;
+  }
+  td{
+    height: 50px;
+  }
+  .p2{
+    background-color: aquamarine;
+  }
+  .p3{
+    background-color: yellow;
+  }
+.p4{
+    background-color: pink;
+}
+.p5{
+    background-color: green;
+}
+.p6{
+    background-color: rgb(35, 146, 35);
+}
+.p7{
+    background-color:palevioletred
+}
+.p8{
+    background-color: orangered;
+}
+.p9{
+    background-color: rgb(20, 207, 145);
+}
+.p10{
+    background-color: rgb(19, 19, 114);
+}
+.p11{
+    background-color:palevioletred
+}
+.carre{  height: 50px;
+  width: 5px;
+  background-color: blue;
+
+}
